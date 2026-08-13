@@ -58,12 +58,14 @@ Principais tipos utilizados:
 | `style`    | Formatação, indentação, sem alteração de lógica                  |
 | `chore`    | Tarefas de manutenção (ex.: organização de pastas, `.gitignore`) |
 
+> A descrição deve sempre começar com um verbo no **infinitivo** (ex.: implementar, corrigir, atualizar), e não conjugado.
+
 Exemplos:
 
 ```
-feat(grafos): implementa busca em profundidade (DFS)
-fix(templates): corrige erro de compilação no TAD Pilha
-docs: atualiza README com estrutura do repositório
+feat(grafos): implementar busca em profundidade (DFS)
+fix(templates): corrigir erro de compilação no TAD Pilha
+docs: atualizar README com estrutura do repositório
 ```
 ## 👤 Autor
 
